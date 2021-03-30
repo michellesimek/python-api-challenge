@@ -28,19 +28,19 @@ Next the cities were split up depending on if they were located in the Northern 
 ![GitHub Logo](/Images/southernhem_temp_vs_lat.png)
 
 - Northern Hemisphere - Humidity (%) vs. Latitude
-![GitHub Logo](/Images/nothernhem_humidity_vs_lat.png)
+![GitHub Logo](/Images/northernhem_humidity_vs_lat.png)
 
 - Southern Hemisphere - Humidity (%) vs. Latitude
 ![GitHub Logo](/Images/southernhem_humidity_vs_lat.png)
 
 - Northern Hemisphere - Cloudiness (%) vs. Latitude
-![GitHub Logo](/Images/nothernhem_cloudiness_vs_lat.png)
+![GitHub Logo](/Images/northernhem_cloudiness_vs_lat.png)
 
 - Southern Hemisphere - Cloudiness (%) vs. Latitude
 ![GitHub Logo](/Images/southernhem_cloudiness_vs_lat.png)
 
 - Northern Hemisphere - Wind Speed (mph) vs. Latitude
-![GitHub Logo](/Images/nothernhem_windspeed_vs_lat.png)
+![GitHub Logo](/Images/northernhem_windspeed_vs_lat.png)
 
 - Southern Hemisphere - Wind Speed (mph) vs. Latitude
 ![GitHub Logo](/Images/southernhem_windspeed_vs_lat.png)
