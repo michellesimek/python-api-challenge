@@ -22,7 +22,7 @@ The first requirement was to create a series of scatter plots to showcase the fo
 Next the cities were split up depending on if they were located in the Northern Hemisphere (greater than or equal to 0 degrees latitude) or Southern Hemisphere (less than 0 degrees latitude). The following plots and linear regressions were then created:
 
 - Northern Hemisphere - Temperature (F) vs. Latitude
-![GitHub Logo](/Images/nothernhem_temp_vs_lat.png)
+![GitHub Logo](/Images/northernhem_temp_vs_lat.png)
 
 - Southern Hemisphere - Temperature (F) vs. Latitude
 ![GitHub Logo](/Images/southernhem_temp_vs_lat.png)
