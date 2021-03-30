@@ -8,20 +8,42 @@ The first task of this assignment was to wrtie a Python script to visualize the 
 The first requirement was to create a series of scatter plots to showcase the following relationships:
 
 - Temperature (F) vs. Latitude
+![GitHub Logo](/Images/latitude_vs_temp.png)
+
 - Humidity (%) vs. Latitude
+![GitHub Logo](/Images/latitude_vs_humidity.png)
+
 - Cloudiness (%) vs. Latitude
+![GitHub Logo](/Images/latitude_vs_cloudiness.png)
+
 - Wind Speed (mph) vs. Latitude
+![GitHub Logo](/Images/latitude_vs_windspeed.png)
 
 Next the cities were split up depending on if they were located in the Northern Hemisphere (greater than or equal to 0 degrees latitude) or Southern Hemisphere (less than 0 degrees latitude). The following plots and linear regressions were then created:
 
 - Northern Hemisphere - Temperature (F) vs. Latitude
+![GitHub Logo](/Images/nothernhem_temp_vs_lat.png)
+
 - Southern Hemisphere - Temperature (F) vs. Latitude
+![GitHub Logo](/Images/southernhem_temp_vs_lat.png)
+
 - Northern Hemisphere - Humidity (%) vs. Latitude
+![GitHub Logo](/Images/nothernhem_humidity_vs_lat.png)
+
 - Southern Hemisphere - Humidity (%) vs. Latitude
+![GitHub Logo](/Images/southernhem_humidity_vs_lat.png)
+
 - Northern Hemisphere - Cloudiness (%) vs. Latitude
+![GitHub Logo](/Images/nothernhem_cloudiness_vs_lat.png)
+
 - Southern Hemisphere - Cloudiness (%) vs. Latitude
+![GitHub Logo](/Images/southernhem_cloudiness_vs_lat.png)
+
 - Northern Hemisphere - Wind Speed (mph) vs. Latitude
+![GitHub Logo](/Images/nothernhem_windspeed_vs_lat.png)
+
 - Southern Hemisphere - Wind Speed (mph) vs. Latitude
+![GitHub Logo](/Images/southernhem_windspeed_vs_lat.png)
 
 ## Part 1: VacationPy
 Looking at the city weather data we pulled from part 1 (WeatherPy), we created a heatmap displaying the humidity of each city. The data was then narrowed down to only citys with ideal weather conditions. Those conditions included:
@@ -33,7 +55,7 @@ Next, Google API places was used to find hotels within a 5000 meters radius for 
 
 Finally, the hotel names were plotted on top of the humidity heatmap, with each pin containing the Hotel Name, City, and Country.
 
-![GitHub Logo](/Images/heatmap2.png)
+![GitHub Logo](/Images/heatmap4.png)
 
 
 ## Observable Trends
@@ -48,7 +70,7 @@ Three observable trends from looking at the data above include:
 
 ![GitHub Logo](/Images/latitude_vs_cloudiness.png)
 
-3. When you look at the northern and southern hemisphere plots comparing wind speed (mph) to latitude, the northern hemisphere has a cluster of datapoints below 10 mph, where the southern hemisphere has more spread out data.
+3. When you look at the northern and southern hemisphere plots comparing wind speed (mph) to latitude, the northern hemisphere has a cluster of datapoints below 15 mph, where the southern hemisphere is slightly more spread out.
 
 ![GitHub Logo](/Images/northernhem_windspeed_vs_lat.png)
 
