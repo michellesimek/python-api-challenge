@@ -55,7 +55,7 @@ Next, Google API places was used to find hotels within a 5000 meters radius for 
 
 Finally, the hotel names were plotted on top of the humidity heatmap, with each pin containing the Hotel Name, City, and Country.
 
-![GitHub Logo](/Images/heatmap4.png)
+![GitHub Logo](/Images/heatmap5.png)
 
 
 ## Observable Trends
